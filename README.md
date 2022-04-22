@@ -6,5 +6,6 @@
 ![MicroPython](https://img.shields.io/badge/-MicroPython-f79a34?&logo=MicroPython)
 
 Связаться со мной
-[![Texnoit](https://img.shields.io/badge/-TexnoIT-f79a34??style=plastic&logo=instagram)](https://www.texnoit.com)
+
+[![Texnoit](https://img.shields.io/badge/-TexnoIT-f79a34??style=plastic&logo=site)](https://www.texnoit.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-f79a34??style=plastic&logo=telegram)](https://t.me/texnoit_com)
