@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/-Python-f79a34?&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-f79a34?&logo=Django)
 ![Pytest](https://img.shields.io/badge/-Pytest-f79a34?&logo=Pytest)
-![FastApi](https://img.shields.io/badge/-Pytest-f79a34?&logo=FastApi)
+![FastApi](https://img.shields.io/badge/-FastApi-f79a34?&logo=FastApi)
 
 Связаться со мной
 
